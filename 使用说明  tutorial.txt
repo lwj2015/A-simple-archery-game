@@ -1,0 +1,52 @@
+/*************************************************************************
+用户手册分为中文版和英文版两部分,可以自动忽略第二部分。
+This toturial is showed in Chinese Vversion and English version.
+You can just skip the first part if you cannot understand Chinese.
+/*************************************************************************
+
+中文版（Part Ⅰ）
+  菜单栏：
+     File： Load  Obj   ：加载Obj格式的文件
+               Load  FFD   ：加载FFD格式的文件
+               Save   Obj   ：保存Obj格式的文件
+               Save   FFD  ：保存FFD格式的文件
+               Exit             ：退出程序
+  
+    FFD：  start_FFD:          开始进行自由变形
+                Dots_Number:  设置控制球数量
+   
+    3D objects：  展示射箭场景
+    
+    Texture：   Add Texture：      给场景添加“皮肤”（仅限射箭场景）
+                       Delete Texture：  去除
+
+   射箭使用： 键盘的方向键控制小人的移动
+                    “s”代表射箭动作
+
+**************************************************************************
+
+English Version(Part Ⅱ)
+    Menu：
+     File：  Load  Obj   ：filefomart is oj
+                Load  FFD   ：filefomart is ffd
+                Save   Obj   ：
+                Save   FFD  ：
+                Exit             ：
+  
+    FFD：  start_FFD:             
+                Dots_Number:    change the number of control points
+   
+    3D objects：          Start the simple game.
+    
+    Texture：   Add Texture：      (Applies to the simple game only)
+                       Delete Texture：  
+
+   archery control：       use ↑  ↓ ←  →  to control the move of the person.
+                                     “s” means starting archery.
+
+
+
+
+
+
+
