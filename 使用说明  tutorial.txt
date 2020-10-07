@@ -1,6 +1,6 @@
 /*************************************************************************
 用户手册分为中文版和英文版两部分,可以自动忽略第二部分。
-This toturial is showed in Chinese Vversion and English version.
+This toturial is showed in Chinese version and English version.
 You can just skip the first part if you cannot understand Chinese.
 /*************************************************************************
 
