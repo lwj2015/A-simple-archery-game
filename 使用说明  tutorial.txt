@@ -6,19 +6,19 @@ You can just skip the first part if you cannot understand Chinese.
 
 中文版（Part Ⅰ）
   菜单栏：
-     File： Load  Obj   ：加载Obj格式的文件
+     File：    Load  Obj   ：加载Obj格式的文件
                Load  FFD   ：加载FFD格式的文件
-               Save   Obj   ：保存Obj格式的文件
+               Save   Obj  ：保存Obj格式的文件
                Save   FFD  ：保存FFD格式的文件
-               Exit             ：退出程序
+               Exit        ：退出程序
   
-    FFD：  start_FFD:          开始进行自由变形
-                Dots_Number:  设置控制球数量
+    FFD：  start_FFD       : 开始进行自由变形
+           Dots_Number     : 设置控制球数量
    
-    3D objects：  展示射箭场景
+    3D objects：             展示射箭场景
     
-    Texture：   Add Texture：      给场景添加“皮肤”（仅限射箭场景）
-                       Delete Texture：  去除
+    Texture：   Add Texture：     给场景添加“皮肤”（仅限射箭场景）
+                Delete Texture：  去除
 
    射箭使用： 键盘的方向键控制小人的移动
                     “s”代表射箭动作
@@ -27,22 +27,22 @@ You can just skip the first part if you cannot understand Chinese.
 
 English Version(Part Ⅱ)
     Menu：
-     File：  Load  Obj   ：filefomart is oj
+     File：  Load  Obj      ：filefomart is oj
                 Load  FFD   ：filefomart is ffd
-                Save   Obj   ：
+                Save   Obj  ：
                 Save   FFD  ：
-                Exit             ：
+                Exit        ：
   
-    FFD：  start_FFD:             
+    FFD：       start_FFD:             
                 Dots_Number:    change the number of control points
    
-    3D objects：          Start the simple game.
+    3D objects：                Start the simple game.
     
-    Texture：   Add Texture：      (Applies to the simple game only)
-                       Delete Texture：  
+    Texture：   Add Texture：   (Applies to the simple game only)
+                Delete Texture：  
 
    archery control：       use ↑  ↓ ←  →  to control the move of the person.
-                                     “s” means starting archery.
+                           “s” means starting archery.
 
 
 
